@@ -13,3 +13,4 @@ Com o surgimento da web, a Sun teve a sacade de utilizar a ideia criada em 1992 
 - **JVM** => máquina virtual
 - **JRE** => Java Runtime Environment, ambiente de execução Java
 - **JDK** => Java Development Kit, o JRE pode até ter tudo o que precisamos para rodar Java, no entanto, nós desenvolvedores precisamos de mais ~~hehehe~~, então o JDK é o conjunto de ferramentas com o próprio JRE. 
+- ~~**JIRAYA** => Um dos Sannin Lendários, treinado por Hiruzen Sarutobi. Auto-proclamado pervertido e o escritor de uma popular série de livros, chamado Icha Icha.~~  
